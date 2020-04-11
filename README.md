@@ -6,8 +6,8 @@ Before using the script some dependencies need to be installed<br>
 		1. You need to have python3 installed on your system<br>
 		2. You need to have various modules installed viz. selenium, chromedriver_binary, beautifulSoup4, requests, shutil, filecmp, sys, termcolor, coloroma, os and any other dependencies absent on your system.
 
-You can install these using pip3(Example: pip3 install chromedriver_binary )
-
+You can install these using pip3(Example: pip3 install chromedriver_binary )<br>
+ <b>To install all the dependencies you can simply type this command in your terminal: pip3 install -r requirements.txt</b>
 
 Procedure to use the script: <br>
 
